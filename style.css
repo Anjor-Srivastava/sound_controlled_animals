@@ -1,15 +1,11 @@
 body {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Akaya Telivigala', cursive !important;
 }
 
 .header_div {
     padding: 10px;
     color: white;
     background-color: #737373;
-}
-
-.header_div h2 {
-    font-family: 'Akaya Telivigala', cursive;
 }
 
 .header_div p {
